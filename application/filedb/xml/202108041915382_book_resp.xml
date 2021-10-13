@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result command="confirmbooking" tID="1628104542117301" ip="178.86.124.58" date="2021-08-04 19:15:44" version="4.0" elapsedTime="1.3174121379852"><confirmationText><![CDATA[<div style="color:#333333; font-size: 13px;"><p><table align='center' cellpading='10' width='95%' style="color: #517395;font-family: Verdana;font-size: 13px;">
+    <tr>
+        <td>
+            
+                    </td>
+    </tr>
+    <tr>
+        <td>
+            <table cellpading='10' style="color: #517395;font-family: Verdana;font-size: 13px;">
+                                    <tr>
+                        <td>Agent Reference:</td>
+                        <td><b>202108041915382</b></td>
+                    </tr>
+                
+                
+                <tr>
+                    <td>Booking for:</td>
+                    <td><b>Supplier: Snood Al Salam - MAKKAH - SAUDI ARABIA</b></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan = ""><b> This booking is confirmed by Hotel Service</b></td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td colspan = ""><b>
+                                                            YOUR CONFIRMED BOOKING SUMMARY                                                </b></td>
+                </tr>
+
+            </table>
+        </td>
+    </tr>
+                            <tr>
+            <td align="center">
+                <table style="font-family: arial, sans-serif !important;
+              border: 1px #5496CF !important;
+              background: #5496CF !important;
+              color: #ffffff;
+              -webkit-border-top-left-radius: 2px; padding: 0px 2px;
+              -webkit-border-top-right-radius: 3px;
+              -moz-border-radius-topleft: 3px;
+              -moz-border-radius-topright: 3px;
+              border-top-left-radius: 3px;
+              border-top-right-radius: 3px;
+              padding-left: 7px;
+              border-collapse: initial;
+              -webkit-print-color-adjust:exact" width="100%"  align="center">
+    <tr>
+        <td style="padding: 4px">
+            VOUCHER DETAILS        </td>
+    </tr>
+</table>
+
+<table id="voucherPanel" name="voucherPanel"  width="100%" style="font-family: arial; font-size: 12px; color: #333333;
+                                            -webkit-border-bottom-right-radius: 3px;
+                                            -webkit-border-bottom-left-radius: 3px;
+                                            -moz-border-radius-bottomright: 3px;
+                                            -moz-border-radius-bottomleft: 3px;
+                                             border-bottom-right-radius: 3px;
+                                             border-bottom-left-radius: 3px;
+                                             border-bottom: 1px solid #c9c9c9;
+                                             border-left: 1px solid #c9c9c9;
+                                             border-right: 1px solid #c9c9c9;
+                                             padding: 7px; border-collapse: initial; -webkit-print-color-adjust:exact " align="center" >
+    <tr>
+        <td>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <table id="voucherGeneralDetails" name="voucherGeneralDetails"  width="100%" style="font-size: 12px; font-family: arial; color: #333333;">
+    <tr>
+        <td style="width: 30%; font-weight: bold">
+            Booking Reference No        </td>
+        <td style="font-weight: bold">
+            HTL-WBD-266653315        </td>
+        <td rowspan="7">
+            <img src="http://us.dotwconnect.com/img.php?query=VQ9bVVI5ATUBTwFpVCBRe1NLUW5cAQBhBUxXbVBcVXUPVlBdD3NRPlIaUDwIfFd9UUlRbgBdVTQBSAc9WmAGIlUPW1ZSMgFpAUkBbVQgUXtTS1FuXAEAYQVMV25QVFVtD1VQZw9zUTlSGlA8CHxXfVFJUW4ATVU3AU4HOVpGBmZVD1tsUi4BYwFRATRUAlF7U2BRQ1xtACMFX1dYUExVYw9fUF0POlE9UglQZAheV31RT1FuAHxVeAFOBzpaVQZgVR9bbFIMAXUBWgFQVCxRalNJUW1cHQBgBWZXelBpVXwPQ1BjD0FRJVIJUBUIQVcwUWVRfgBnVTMBTgc5WkYGZFUPW1ZSLgE0AVoBVFQdUTZTZVFQXDsAYgVIV1RQQ1UxD0JQXg9/UWw=&key=aaaa">
+        </td>
+
+    </tr>
+    
+        <tr>
+        <td style="font-weight: bold">
+            Printed On        </td>
+        <td>
+            Wed, 04 Aug 2021 19:15:44 GMT        </td>
+    </tr>
+
+    <tr>
+        <td style="font-weight: bold">
+            Itinerary Number        </td>
+        <td>
+            ITN-WBD-266653305        </td>
+    </tr>
+
+    
+    <tr>
+        <td style="font-weight: bold">
+            Booked By        </td>
+        <td>
+            Reyadat Al Adaa        </td>
+    </tr>
+
+    <tr style="font-weight: bold">
+        <td >
+            Booking Status        </td>
+        <td>
+            Confirmed
+        </td>
+    </tr>
+
+    
+
+
+             <tr>
+            <td style="font-weight: bold">
+                Reference Number            </td>
+            <td>
+                202108041915382            </td>
+        </tr>
+      
+</table>        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <hr style="border: 0px solid; border-top: 1px dotted  #c9c9c9;">
+        </td>
+    </tr>
+    <tr>
+        <td  style="color: #5496CF;
+                    padding: 7px 0; font-size: 14px">
+            SERVICE PROVIDER DETAILS        </td>
+    </tr>
+
+    <tr>
+        <td>
+           <table id="serviceprovider" name="serviceprovider" width="100%" style="font-size: 12px; font-family: arial; color: #333333;">
+
+            <tr>
+            <td style="width: 30%; font-weight: bold">
+                Contract Supplier Name            </td>
+            <td>
+                Snood Al Salam            </td>
+        </tr>
+    
+    <tr>
+        <td style="width: 30%; font-weight: bold">
+            Service Name        </td>
+        <td>
+            Snood Al Salam        </td>
+    </tr>
+
+            <tr>
+            <td style="font-weight: bold">
+                Address            </td>
+            <td>
+                Al Aziziah District , Al Aziziyah, 21955 Makkah, Saudi Arabia, MAKKAH, SAUDI ARABIA            </td>
+        </tr>
+    
+    
+        
+            <tr>
+            <td style="font-weight: bold">
+                Telephone            </td>
+            <td>
+                966-null            </td>
+        </tr>
+    
+    
+    
+
+</table>        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <hr style="border: 0px solid; border-top: 1px dotted  #c9c9c9;">
+        </td>
+    </tr>
+
+
+    <tr>
+        <td style="color: #5496CF; padding: 7px 0; font-size: 14px">
+            PASSENGER DETAILS        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <table id="passengerDetails" name="passengerDetails" width="100%" style="font-size: 12px; font-family: arial; color: #333333;">
+
+    <tr>
+        <td style="width: 30%; font-weight: bold">
+            Passenger Name        </td>
+        <td>
+
+
+                            Mr. Hisham Muhammad            
+                    </td>
+    </tr>
+
+    
+    
+    
+                        <tr>
+                <td style="font-weight: bold">
+                    Passenger Nationality                </td>
+                <td>
+                    SAUDI ARABIA                </td>
+            </tr>
+        
+                    <tr>
+                <td style="font-weight: bold">
+                    Country of Residence                </td>
+                <td>
+                    SAUDI ARABIA                </td>
+            </tr>
+            
+
+    <tr>
+        <td style="font-weight: bold">
+            Service Type        </td>
+        <td>
+            Accommodation        </td>
+    </tr>
+
+
+
+            <tr>
+            <td style="font-weight: bold">
+                City            </td>
+            <td> MAKKAH </td>
+        </tr>
+    
+
+    <tr>
+        <td style="font-weight: bold">
+            Supplier Reference         </td>
+        <td> ................                </td>
+    </tr>
+
+
+    <tr>
+    <td style="font-weight: bold"> Check-in</td>
+    <td>Fri, 06 Aug 2021            </td>
+</tr>
+
+<tr>
+    <td style="font-weight: bold"> Check-out </td>
+    <td>Mon, 09 Aug 2021               </td>
+</tr>
+
+<tr>
+    <td style="font-weight: bold"> Room Type</td>
+    <td>STANDARD ROOM
+        
+        
+    </td>
+</tr>
+
+
+
+
+<tr>
+    <td style="font-weight: bold"> Room Occupancy </td>
+    <td>1 Adult               </td>
+</tr>
+
+
+
+    <tr>
+        <td style="font-weight: bold"> Bedding Preference </td>
+        <td>No Preference              </td>
+    </tr>
+
+<tr>
+    <td style="font-weight: bold"> Rate Basis</td>
+    <td>Room Only              </td>
+</tr>
+
+
+
+
+
+
+
+
+
+    <tr>
+        <td style="font-weight: bold"> Additional Services</td>
+        <td>
+                  none                </td>
+    </tr>
+
+
+
+    
+    <tr>
+        <td style="font-weight: bold"> Additional Requests</td>
+        <td>
+                           none            
+                    </td>
+    </tr>
+
+    
+     
+        
+                     </table>        </td>
+    </tr>
+
+    
+    <tr>
+        <td>
+                     </td>
+    </tr>
+
+
+    <tr>
+        <td>
+            <hr style="border: 0px solid; border-top: 1px dotted  #c9c9c9;">
+        </td>
+    </tr>
+
+    
+    <tr>
+        <td>
+            Payment is guaranteed by: <b>WebBeds FZ LLC</b>, as per final booking form reference  <nobr>No:<b>HTL-WBD-266653315</b></nobr>        </td>
+    </tr>
+
+        </table>            </td>
+        </tr>
+                               <tr>
+            <td align="center">
+                <table style="border: 1px #5496CF;background: #5496CF;color: #ffffff;
+              -webkit-border-top-left-radius: 2px; padding: 0px 2px;-webkit-border-top-right-radius: 3px;
+              -moz-border-radius-topleft: 3px;-moz-border-radius-topright: 3px;border-top-left-radius: 3px;
+              border-top-right-radius: 3px;padding-left: 7px; -webkit-print-color-adjust:exact" width="100%"  align="center">
+    <tr>
+        <td style="padding-left: 4px">
+            DAILY RATES        </td>
+    </tr>
+</table>
+
+<table   width="100%" style="font-size: 12px; font-family: arial; color: #333333;
+                                            -webkit-border-bottom-right-radius: 3px;-webkit-border-bottom-left-radius: 3px;
+                                             -moz-border-radius-bottomright: 3px;-moz-border-radius-bottomleft: 3px;
+                                             border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;
+                                             border-bottom:1px solid #c9c9c9; border-left:1px solid #c9c9c9;
+                                             border-right:1px solid #c9c9c9;padding: 5px;" align="center" >
+
+        <tr>
+                                        <th style="font-size: 12px; font-weight: normal;
+                        color: #039; text-align: left;">
+                Date                    </th>
+                                                    <th style="font-size: 12px; font-weight: normal;
+                        color: #039; text-align: left;">
+                Payable Rate                    </th>
+                                                    <th style="font-size: 12px; font-weight: normal;
+                        color: #039; text-align: left;">
+                Rate Basis                    </th>
+                                                    <th style="font-size: 12px; font-weight: normal;
+                        color: #039; text-align: left;">
+                Min. Stay                    </th>
+                                                    <th style="font-size: 12px; font-weight: normal;
+                        color: #039; text-align: left;">
+                Rate Market                    </th>
+                        </tr>
+    
+    <tr>
+        <td colspan="5">
+            <hr style="border: 0px solid; border-top: 1px dotted  #c9c9c9; margin: 0px;">
+        </td>
+    </tr>
+
+    
+       <tr>
+            <td  style="color: #5496CF; font-weight: bold; font-size: 12px;">
+                Fri, 06 Aug 2021            </td>
+
+            <td style="font-size: 12px; font-family: arial; color: #333333;">
+
+                                    SAR 62.04                
+                                            </td>
+
+            <td style="font-size: 12px;  padding-bottom: 0px; padding-top: 0px; ">
+                Room Only
+                             </td>
+
+           
+             <td style="font-size: 12px; font-family: arial; color: #333333; padding-bottom: 0px; padding-top: 0px; ">
+                 -              </td>
+
+                                    <td style="font-size: 12px; font-family: arial; color: #333333; padding-bottom: 0px; padding-top: 0px; ">
+                GCC            </td>
+                      
+        </tr>
+
+
+        
+
+        
+
+       
+
+
+
+        <tr>
+            <td colspan="5">
+                <hr style="border: 0px solid; border-top: 1px dotted  #c9c9c9; margin: 0px; font-size: 0px">
+            </td>
+        </tr>
+    
+       <tr>
+            <td  style="color: #5496CF; font-weight: bold; font-size: 12px;">
+                Sat, 07 Aug 2021            </td>
+
+            <td style="font-size: 12px; font-family: arial; color: #333333;">
+
+                                    SAR 62.04                
+                                            </td>
+
+            <td style="font-size: 12px;  padding-bottom: 0px; padding-top: 0px; ">
+                Room Only
+                             </td>
+
+           
+             <td style="font-size: 12px; font-family: arial; color: #333333; padding-bottom: 0px; padding-top: 0px; ">
+                 -              </td>
+
+                                    <td style="font-size: 12px; font-family: arial; color: #333333; padding-bottom: 0px; padding-top: 0px; ">
+                GCC            </td>
+                      
+        </tr>
+
+
+        
+
+        
+
+       
+
+
+
+        <tr>
+            <td colspan="5">
+                <hr style="border: 0px solid; border-top: 1px dotted  #c9c9c9; margin: 0px; font-size: 0px">
+            </td>
+        </tr>
+    
+       <tr>
+            <td  style="color: #5496CF; font-weight: bold; font-size: 12px;">
+                Sun, 08 Aug 2021            </td>
+
+            <td style="font-size: 12px; font-family: arial; color: #333333;">
+
+                                    SAR 62.04                
+                                            </td>
+
+            <td style="font-size: 12px;  padding-bottom: 0px; padding-top: 0px; ">
+                Room Only
+                             </td>
+
+           
+             <td style="font-size: 12px; font-family: arial; color: #333333; padding-bottom: 0px; padding-top: 0px; ">
+                 -              </td>
+
+                                    <td style="font-size: 12px; font-family: arial; color: #333333; padding-bottom: 0px; padding-top: 0px; ">
+                GCC            </td>
+                      
+        </tr>
+
+
+        
+
+        
+
+       
+
+
+
+        <tr>
+            <td colspan="5">
+                <hr style="border: 0px solid; border-top: 1px dotted  #c9c9c9; margin: 0px; font-size: 0px">
+            </td>
+        </tr>
+    
+
+    <tr>
+        <td colspan="5">
+           Rates including all Room taxes and Service charges and may not include City Taxes.        </td>
+    </tr>
+
+
+</table>
+
+            </td>
+        </tr>
+                                  
+    <tr><td height=10></td></tr>
+</table>
+<br><br></p>
+
+<p><strong>Total Payable for this Booking: 186.12 SAR (Saudi Arabian Riyals)<br/></strong></p>
+
+<p><br />
+<u><strong>Amendment & Cancellation Policy</strong></u></p>
+
+<p>- Any amendments or cancellations must be done online before the cancellation deadline.<br />
+- Amendment on bookings confirmed through Dynamic rates & inventory and 3rd Party supplier is possible only if the service is available at the time of amendment and for the dates required.<br />
+- No manual /offline amendment is possible.<br />
+- Certain services are non amendable and should be rebooked as per new dates before the cancellation deadline.<br />
+- No Passenger Name change allowed</p>
+
+<p></p>
+
+<br />
+
+<p><div style="font-family: arial; color: #333333">
+    <strong>Cancellation Rules: </strong>
+    <ul>
+    
+                     <li>
+                            Before            
+            
+            
+                            Wed, 04 Aug 2021 14:15:28                      
+        
+                            <br>
+                <span style="padding-left: 15px">
+                                                            No Cancellation Charge.                                     
+                
+                                            No Amendment Charge.                                                    </span>
+                </li>
+
+            
+            
+                     <li>
+                            Between            
+                            Wed, 04 Aug 2021 14:15:29              
+                             and             
+                            Wed, 04 Aug 2021 22:15:28                      
+        
+                            <br>
+                <span style="padding-left: 15px">
+                                                            No Cancellation Charge.                                     
+                
+                                            No Amendment Charge.                                                    </span>
+                </li>
+
+            
+            
+                     <li>
+                            Between            
+                            Wed, 04 Aug 2021 22:15:29              
+                             and             
+                            Fri, 06 Aug 2021 23:59:59                      
+        
+                            <br>
+                <span style="padding-left: 15px">
+                                    Cancellation Restricted.                 
+                                    Amend Restricted.                                </span>
+                </li>
+
+            
+            
+                     <li>No Show Charge: SAR 186.12 </li>
+        
+                </ul>
+</div></p>
+
+<br />
+
+<p><strong>No-Shows or Early Checkout</strong></p>
+
+<p>100% charges will apply for No Shows and Early Check out.</p>
+
+<p></p>
+
+<p></br><b>Tariff Notes:</b></br><br />
+Rate Notes:<br />
+<br />
+Hotel Tariff Notes:<br />
+No show and early departure will be subjected to 100% charge. No date, name and room change allowed. Bookings including children will be based on sharing parents bedding, no separate bed for children is provided unless otherwise stated. Prices include 5% VAT, and municipality fees calculated as follows: 5% VAT for 4 – 5 star Hotels, 2.5% VAT for 3 star and below. </p>
+
+<br />
+
+<p><strong>Bookings including children will be based on sharing parents bedding and no separate bed for children is provided unless otherwise stated</strong></p>
+
+<br />
+
+<p></p>
+
+<p><strong>Operations Team<br />
+WebBeds FZ LLC</strong><br />
+<strong>Email : </strong><u><a href="mailto:DOTW_support@webbeds.com" target="_blank" title="mailto:dotw_support@webbeds.com">DOTW_support@webbeds.com</a></u></p>
+
+<br />
+<div>]]></confirmationText><returnedCode>266653305</returnedCode><bookings><booking runno="0"><bookingCode>266653315</bookingCode><bookingReferenceNumber>HTL-WBD-266653315</bookingReferenceNumber><bookingStatus>2</bookingStatus><servicePrice>186.1184<formatted>186.12</formatted></servicePrice><mealsPrice>0<formatted>0.00</formatted></mealsPrice><price>186.1184<formatted>186.12</formatted></price><currency>492</currency><type>hotel</type><voucher><![CDATA[<table cellpadding="0" cellspacing="0" border="0" style="width:700px;"  class="normalText" align="center">
+		<tr>
+			<td align="center">
+		
+<table cellpadding="0" cellspacing="0" width="700" align="center" >
+<tr>
+	
+	<td  class="myheader2" colspan="3" valign = "middle" style="height: 26px;background-color:#6388A6;width:700;color:#ffffff;font-size:8pt;font-weight:bold;">VOUCHER DETAILS</td>
+	
+</tr>
+<tr>
+<td colspan="3"  style="border-left:1px solid #a3b6cb; border-right:1px solid #a3b6cb; border-bottom:1px solid #a3b6cb;" align="left" width="700">
+	<div class="vertical_gradient_80px_content_div" style="color: #517194; font-size: 8pt; font-weight: bold;text-align:left; padding-top:10px" >
+
+		
+				
+	 	
+	 		 	
+		<table cellpadding="0" cellspacing="0" border="0" style="width:98%;" align="left" class="normalText">
+		<tr>
+			<td width="300px" valign="top">
+			<table cellpadding="3" cellspacing="1"  width="100%" class="normalText">
+				<tr>
+					<td nowrap class="normalbold" width="150">
+							<b>Booking Reference No:</b>
+					</td>
+					<td nowrap>
+							<b>HTL-WBD-266653315</b>
+					</td>
+				</tr>
+				<tr>
+					<td nowrap  class="normalbold" width="150">
+							<b>Printed On:</b>
+					</td>
+					<td>
+
+							Wed, 04 Aug 2021<br> 19:15:44 GMT+4h  
+					</td>
+				</tr>
+				<tr>
+					<td nowrap  class="normalbold" width="150">
+							<b>Itinerary Number:</b>
+					</td>
+					<td>ITN-WBD-266653305</td>
+				</tr>
+				
+				<tr>
+					<td nowrap  class="normalbold" width="150">
+							<b>Booking Status:</b>
+					</td>
+					<td>Confirmed</td>
+				</tr>
+				
+			</table>
+		</td>
+
+		<td width="390px" valign="top">
+				<table cellpadding="3" cellspacing="1" width="100%" class="normalText">
+				<tr>
+					<td valign="top">
+						<b>Booked By</b>:<BR>
+						Reyadat Al Adaa
+						<BR><BR><b>Reference Number:</b> 202108041915382
+					</td>
+					<td width="226px" align="rigth">
+					<img src="http://us.dotwconnect.com:80/img.php?query=BV9VWwFqBjIATgZuB3NSeFFJBzgKV1Q1AEkGPFdbV3cAWVRZAn4HaAZOA28GclF7UEgBPg9SVTQDSgc9UWtSdgFbV1oDYwFpA0sCbgVxUHpWTgQ7DlNWNwJLAThUUFNrAlhWYQV5BGwCSgFtBHBWfFNLBToNQFc1BEsEOlVJUDADWVBnAHwFZwFRADUCVFN5UmEGFAw9UXIBWwUKVkpRZwVVVVgBNAZqAFsGMgdRUnhRTwc4CnZUeQBPBjtXWFcxAEpUYwJcB3MGXQNSBn5RalBKAT0PTlU1A2AHKlFoUnsBTVdkA00BdQNYAkcFTFA3VmIEKw5pVjACTQE/VEhTMQJYVlsFeQQxAlkBVARNVjFTZwUqDWpXMQRLBDpVSlA1A01QXgBBBTUBTgBVAktTNFJjBgIMOVE7&key=aaaa">
+					</td>
+				</tr>
+				</table>
+
+		</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr width="99%">
+			</td>
+		</tr>
+		 
+		<tr>
+			<td colspan="2"  >
+			
+				<table cellpadding="3" cellspacing="1"  class="normalText" border="0" width=100%>
+					<tr>
+                            <td height="25" colspan="3" class="showHideDailyRates">SERVICE PROVIDER DETAILS:</td>
+						
+					</tr> 			
+					<tr>
+						<td height="20" width="20%" class="normalbold"><b>Supplier Name:</b></td>
+						<td colspan="2" width="80%">Snood Al Salam</td>
+					</tr> 					
+					<tr>
+						<td height="20" width="20%" class="normalbold"><b>Service Name:</b></td>
+						<td colspan="2" width="80%">Snood Al Salam</td>
+						
+					</tr> 			
+					<tr>
+						<td height="20" width="20%" valign="top" class="normalbold"><b>Address: </b></td>
+						<td colspan="2" width="80%">Al Aziziah District , Al Aziziyah, 21955 Makkah, Saudi Arabia, 
+		MAKKAH , 
+		 </td>						
+					</tr> 			
+					<tr>
+						<td height="20" width="20%" valign="middle" class="normalbold">Telephone:</td>
+						<td colspan="2" width="80%"> <b>966-null</b></td>
+					</tr>
+					<tr><td colspan="3">&nbsp;</td></tr>
+				</table>
+
+			
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan="2"  >
+			<hr width="99%">
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan="2" class="showHideDailyRates">PASSENGER DETAILS:</td>
+		</tr>
+		
+		<tr>
+				<td colspan="2" >
+				
+				<table cellpadding="3" cellspacing="1"  class="normalText"  border="0" width="100%">
+					<tr>
+						<td class="normalbold"><b>Passenger Name: </b></td>
+						<td width="80%">Mr. Hisham Muhammad</td>
+					</tr><tr>
+						<td class="normalbold"><b>Passenger Nationality: </b></td>
+						<td width="80%">SAUDI ARABIA</td>
+					</tr><tr>
+						<td class="normalbold"><b>Country of Residence: </b></td>
+						<td width="80%">SAUDI ARABIA</td>
+					</tr> 	
+					<tr>
+						<td class="normalbold"><b>Service Type:</b></td>
+						<td>Hotel </td>
+					</tr>	
+						   <tr>
+						<td  class="normalbold"><b>City:</b> </td>
+						<td>MAKKAH</td>
+						</tr>
+						
+					<tr>
+						
+						<td  class="normalbold"><b>Supplier Reference: </b> </td>
+						<td>...................................</td>
+					</tr><tr>
+						<td  class="normalbold"><b>Check-in: </b></td>
+						<td><b>Friday, August 06, 2021 </b></td>
+				</tr>
+				
+				<tr>
+				<td class="normalbold"><b>Check-out:</b> </td>
+				<td><b>Monday, August 09, 2021 </b></td>
+			</tr><tr>
+				<td   class="normalbold"><b>Room Type: </b></td><td>STANDARD ROOM</td></tr><tr><td class="normalbold" ><b>Room Category:</b> </td><td>1 Adult, Single</td></tr><tr>
+				<td class="normalbold"><b>Rate Basis: </b></td>
+				<td>Room Only</td></tr><tr><td class="normalbold" valign="top" nowrap ><b>Additional Requests: </b></td><td>none</td></tr>
+								
+
+								<tr>
+									<td colspan="2">Payment is guaranteed by: <b>WebBeds FZ LLC</b>, as per final booking form reference  <nobr>No:<b>HTL-WBD-266653315</b></nobr> 
+									</td>
+			
+								</tr><tr>
+							<td ><b>Emergency contact number(s):</b></td>
+							<td> <b></b>
+							</td>
+	
+						</tr></table></td></tr></table></div></td></tr></table></td></tr></table>]]></voucher><paymentGuaranteedBy>Payment is guaranteed by: WebBeds FZ LLC, as per final booking form reference No: HTL-WBD-266653315</paymentGuaranteedBy><emergencyContacts count="0"/></booking></bookings><successful>TRUE</successful></result>

@@ -1,0 +1,439 @@
+/*Font Family*/
+@font-face {
+  font-family: tj;
+  src: url("../fonts/Tajawal-Bold.ttf");
+  font-weight: bolder;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+a,
+li,
+button {
+  font-family: tj !important;
+}
+
+/*Body BackGround Color*/
+
+body {
+  background-color: rgba(241, 241, 238, 0.5);
+  text-align: right;
+}
+/*Home Page Search Area BackGround Image*/
+.search_area {
+  background-image: url("http://eomrah.h/assets/banners/bg.png");
+  background-position: 35% 39%;
+  background-repeat: no-repeat;
+  background-size: 100% 180%;
+}
+
+.nav-link:hover {
+  border-bottom: 1px solid #e9a622;
+  color: #e9a622;
+}
+.dropdown-item:hover{
+  background-color: #e9a622;
+  color: white;
+}
+
+.search-overlay {
+  width: 100%;
+  height: 500px;
+  border-bottom: 5px solid white;
+}
+.res-price{
+  text-align: left;
+}
+.res-title{
+    text-align: right;
+}
+.supps{
+  list-style: none;
+  padding-right: 0 !important;
+}
+.supps li{
+  display: inline;
+}
+.supps span{
+  border: 1px solid rgba(5, 68, 80, 1);
+  padding: 5px;
+  color: rgba(5, 68, 80, 1);
+  font-weight: bold;
+    border-radius: 5px;
+
+}
+.mh {
+  border-bottom: 5px solid white;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(5, 68, 80, 1) 50%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+/*Hotel Main Photo*/
+.hotel_area {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*Background Gradient For Header And Footer*/
+.bg2 {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(5, 68, 80, 1) 50%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+/*Custom Buttom For The Front End With Padding And Colors*/
+.searchformWrapper {
+  bottom: 0;
+  /* position: fixed; */
+  left: 50%;
+  transform: translate(-50%, 0%);
+  margin: 0 auto;
+  width: 100%;
+  background: #2d292e80 0% 0% no-repeat padding-box;
+  opacity: 1;
+  z-index: 1;
+  padding-bottom: 6rem;
+}
+/* .searchformWrapper > .accordion {
+  background: #2d292e80 0% 0% no-repeat padding-box;
+  opacity: 1;
+} */
+.formhead {
+  position: absolute;
+  top: -60px;
+  left: -1%;
+  padding: 10px;
+  background: #2d292e80 0% 0% no-repeat padding-box;
+  border-radius: 5px 5px 0px 0px;
+  opacity: 1;
+  color: #ffffff;
+  font: normal normal 400 18px/24px Segoe UI;
+}
+/* .searchform { background: #2d292e80 0% 0% no-repeat padding-box;
+  opacity: 1;
+} */
+.autocomplete {
+  background: #ffffffe6 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  opacity: 1;
+}
+.autocomplete::before {
+  content: "search";
+  padding: 5px;
+  margin-left: 8px;
+  font-size: 11px;
+  color: #2d292e;
+  /* opacity: 1; */
+}
+.autocomplete-input {
+  background: #ffffffe6 0% 0% no-repeat padding-box;
+  background-color: #ffffffe6 0% 0% no-repeat padding-box !important;
+  padding: 6px 40px !important;
+  border: none !important;
+}
+.autocomplete-input:focus,
+.autocomplete-input[area-expanded="true"] {
+  background: #ffffffe6 0% 0% no-repeat padding-box;
+  background-color: #ffffffe6 0% 0% no-repeat padding-box !important;
+  padding: 6px 40px !important;
+  border: none !important;
+  opacity: 1;
+}
+.forminput {
+  width: 100%;
+  background: #ffffffe6 0% 0% no-repeat padding-box;
+  border: none !important;
+  border-radius: 5px;
+  font-size: 12px;
+  overflow: hidden !important;
+}
+.forminput > span {
+  width: 100%;
+  margin-top: 3px;
+  margin-left: 2px;
+  border: none !important;
+  font-size: 12px;
+}
+.forminput > input {
+  width: 100%;
+  border: none !important;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.forminput > input:focus {
+  border: none !important;
+  box-shadow: none !important;
+}
+.ico {
+  position: absolute;
+  left: 10px;
+  top: 32px;
+}
+.roomsmenu {
+  position: relative;
+  z-index: 2;
+  background-color: white;
+  border-radius: 5px;
+  display: block;
+}
+
+.roomsmenu > .arrow{
+  position: absolute;
+  top:-10px;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 15px solid white;
+}
+
+.sbtn {
+  padding: 15px !important;
+  background: #ffb300 0% 0% no-repeat padding-box;
+  border-radius: 8px 0px 8px 8px;
+  opacity: 1;
+  margin-top: 8px;
+  font: normal normal 400 20px/27px Segoe UI !important;
+}
+.sbtn:hover {
+  background: #fff;
+  color: #ffb300 !important;
+}
+
+.bt2 {
+  color: #f1f1f1;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(5, 68, 80, 1) 50%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+
+.bt2:hover {
+  color: whitesmoke;
+  background: linear-gradient(
+    90deg,
+    rgb(0, 0, 0) 0%,
+    rgb(34, 119, 136) 50%,
+    rgb(0, 0, 0) 100%
+  );
+}
+
+.bt2:active {
+  position: relative;
+  top: 1px;
+}
+
+/*Over Lay Affect Image,Image Container And OverLay Effect Colors*/
+.main_img_container {
+  position: relative;
+  overflow: hidden;
+}
+
+.main_image {
+  display: block;
+  border-radius: 5px;
+}
+
+.overlay {
+  position: absolute;
+  border-radius: 5px;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.7);
+  color: #f1f1f1;
+  width: 100%;
+  transition: 0.9s ease;
+  opacity: 0;
+  color: white;
+  font-size: 18px;
+  font-weight: 70;
+  text-align: center;
+  padding: 12px;
+}
+.roomsd {
+  background-color: #f1f1f1;
+  margin-top: 5px;
+}
+.main_img_container:hover .overlay {
+  opacity: 1;
+  -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+  -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+  box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+.main_img_container:hover {
+  -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+  -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+  box-shadow: 10px 10px 12px -4px rgb(158, 158, 158);
+}
+
+.srchcontainer {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0.5) 0%,
+    rgba(5, 68, 80, 0.5) 50%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+  border-radius: 10px;
+  padding: 20px 10px 20px 8px;
+}
+
+.nav-link {
+  color: white;
+  font-family: tj !important;
+}
+
+/*Currency list style*/
+
+.currencies ul {
+  list-style: none;
+}
+
+.currencies ul li {
+  list-style: none;
+}
+/*Currency list style*/
+
+/*About Us Area Effects And Div Section*/
+
+section .section-title {
+  text-align: center;
+  color: black;
+}
+#what-we-do {
+  background: #ffffff;
+}
+#what-we-do .card {
+  padding: 1rem !important;
+  border: none;
+  margin-bottom: 1rem;
+  -webkit-transition: 0.5s all ease;
+  -moz-transition: 0.5s all ease;
+  transition: 0.5s all ease;
+}
+#what-we-do .card:hover {
+  -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+  -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+  box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+
+#what-we-do .card:hover .card-block:before {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+  -webkit-transition: 0.5s all ease;
+  -moz-transition: 0.5s all ease;
+  transition: 0.5s all ease;
+}
+
+/*Tab Styling For Hotels And Cities List*/
+#tabs {
+  background: white;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: rgb(10, 65, 77) !important;
+  background-color: white;
+  border-bottom: 4px solid rgb(10, 65, 77) !important;
+  font-size: 20px;
+  font-weight: bold;
+}
+#tabs .nav-tabs .nav-link {
+  border: 1px solid transparent;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  color: rgb(10, 65, 77);
+  font-size: 20px;
+}
+/*Faqs Page BTN-LINK class custom Styling*/
+
+.btn-link:focus {
+  text-decoration: none !important;
+}
+.btn-link:hover {
+  text-decoration: none !important;
+}
+
+.home_container{
+  position: relative;
+  bottom: 10rem;
+  border-radius: 5px;
+  z-index: 1;
+}
+.search_area {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:80vh;
+}
+@media (max-width:480px) and (min-width:320px) {
+  .home_container{
+    position:relative;
+    bottom:0rem;
+    border-radius:5px;
+    padding: 10px 25px;
+  }
+ 
+}​
+/*User Profile Nav Link */
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: rgba(5, 68, 80, 0.7);
+  background-color: #f7f7f6;
+}
+.nav-pills .nav-link,
+.nav-pills .show > .nav-link {
+  color: black;
+}
+.nav-color {
+  color: black;
+}
+.nav-color {
+  color: black;
+}
+
+.color-black {
+  color: black;
+}
+.color-black:hover {
+  text-decoration: underline;
+  color: black;
+}
+.color-white {
+  color: white;
+}
+.page_banner {
+  background-image: url("http://eomrah.h/assets/banners/reg_ban.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+}
+
+
+.hotel_area {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+}
+.scrollable-menu {
+  height: auto;
+  max-height: 500px;
+  overflow-x: hidden;
+}

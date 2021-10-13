@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif!important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+[class*='sidebar-dark-'] {
+    background-color: rgb(9, 14, 17) !important;
+}
+
+.navbar{
+    background-color: #E6A423 !important;
+    color:white !important;
+
+}
+
+.nav-link {
+  font-weight: 600 !important;
+  color: #FFFFFF;
+  margin-right: 4px !important;
+  margin-left: 4px !important;
+  text-decoration: none !important;
+  list-style: none !important;
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid #E6A423 !important;
+}
+
+.h-nav a:hover{
+    color:black !important;
+
+}
+
+.info-box a{
+    color: black !important;
+}
+
+.info-box a:hover{
+    border-bottom: 2px solid #E6A423 !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color:#E6A423 !important;
+}
+
+.m-color{
+    color: #E6A423 !important;
+}
+
+.bg{
+    background-color: #ececec !important;
+}
+.black{
+    color:black;
+}
+
+.btn-primary {
+    color: black !important;
+    background-color: #E6A423 !important;
+    border-color: black !important;
+    box-shadow: none;
+}
+.btn-primary:hover{
+    color: #E6A423 !important;
+    background-color: white !important;
+}

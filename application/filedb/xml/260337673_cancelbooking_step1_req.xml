@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer><username>medhat85</username><password>70607b42ce7f60b923b05744b2ec5b73</password><id>1742725</id><source>1</source><request command="cancelbooking"><bookingDetails><bookingType>1</bookingType><bookingCode>260337673</bookingCode><confirm>no</confirm></bookingDetails></request></customer>
